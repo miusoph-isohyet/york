@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="york.html" source="original">
+    <mtime>1761421548</mtime>
+    <size>1865577</size>
+    <md5>77975ce3fea87b5271c58106f03a6f8a</md5>
+    <crc32>ef068092</crc32>
+    <sha1>40737994068e0ef2c5e6f3f38b798421944c0b21</sha1>
+    <format>HTML</format>
+  </file>
+  <file name="york_20251025_archive.torrent" source="metadata">
+    <btih>87368e977473d8eb40b4bedf2f18717784a6f68a</btih>
+    <mtime>1761421586</mtime>
+    <size>1712</size>
+    <md5>a5b6d6444317ea5ffe1e7d720fb0c40c</md5>
+    <crc32>357cf0a4</crc32>
+    <sha1>37f3088395167dc8b4c2c9a6a43a985f7cf44555</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="york_20251025_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>3f50a3ff342d8fecd1f289c8a660dc1d</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="york_20251025_meta.sqlite" source="original">
+    <mtime>1761421574</mtime>
+    <size>20480</size>
+    <md5>2e1a014a498a75db09daa3083995a7ec</md5>
+    <crc32>85e56d67</crc32>
+    <sha1>1e4ab05858a2b82ea307981d85bda881d34ca947</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="york_20251025_meta.xml" source="original">
+    <mtime>1761421586</mtime>
+    <size>725</size>
+    <md5>a70cfdc6e0cd33d7714a66078e243481</md5>
+    <crc32>c47930ef</crc32>
+    <sha1>100496a33c4bdc1f0d9f2d4b8f43408cf1c93bc1</sha1>
+    <format>Metadata</format>
+  </file>
+</files>
